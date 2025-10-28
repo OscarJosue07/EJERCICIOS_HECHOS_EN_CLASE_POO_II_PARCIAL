@@ -5,15 +5,15 @@ public class Main {
 
 EcuacionSumatoria.ecuacionSumatoria();
 
-//        System.out.println("RECURSIVIDAD");
-//        Recursividad r = new Recursividad();
-//        r.ContarAtras(10);
+System.out.println("RECURSIVIDAD");
+Recursividad r = new Recursividad();
+r.ContarAtras(10);
 
-//        CicloFor cf = new  CicloFor(0,100,3);
-//        cf.ForHechizo();
+CicloFor cf = new  CicloFor(0,100,3);
+cf.ForHechizo();
 
-// CicloWhile cf = new CicloWhile(0,100,3);
-// cf.WhileHechizo();
+CicloWhile cf = new CicloWhile(0,100,3);
+cf.WhileHechizo();
 
 
     }
