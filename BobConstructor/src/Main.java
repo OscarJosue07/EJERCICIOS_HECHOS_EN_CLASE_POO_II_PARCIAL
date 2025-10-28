@@ -5,5 +5,8 @@ public class Main {
         Persona p = new Persona("Oscar", 18," Manzanas");
 
         p.mostrarInfo();
+
+     BobOperacionesAritmeticas BobMath = new BobOperacionesAritmeticas(10,5);
+     BobMath.MostrarResultados();
     }
 }
