@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BobConstructor/BobConstructor.iml" filepath="$PROJECT_DIR$/BobConstructor/BobConstructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EJERCICIOS HECHOS EN CLASE POO.iml" filepath="$PROJECT_DIR$/.idea/EJERCICIOS HECHOS EN CLASE POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursividad/Recursividad.iml" filepath="$PROJECT_DIR$/Recursividad/Recursividad.iml" />
+    </modules>
+  </component>
+</project>
